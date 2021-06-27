@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkinsx/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: vatwijn@yahoo.com
+  token: local:jenkinsx/pipelineUser:token
+  username: botvoorvaatje
+prow:
+  hmacToken: local:jenkinsx/prow:hmacToken
