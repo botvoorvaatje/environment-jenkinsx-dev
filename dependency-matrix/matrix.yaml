@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: cursusjenkinsx
-  repo: hello-video-3-1
-  url: https://github.com/cursusjenkinsx/hello-video-3-1.git
+  repo: hello-4-1
+  url: https://github.com/cursusjenkinsx/hello-4-1.git
   version: ""
   versionURL: ""
