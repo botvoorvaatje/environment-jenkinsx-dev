@@ -1,0 +1,48 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cursusjenkinsx
+    provider: github
+    repository: hello-video-3-1
+  managedFields:
+  - apiVersion: jenkins.io/v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:metadata:
+        f:labels:
+          .: {}
+          f:owner: {}
+          f:provider: {}
+          f:repository: {}
+      f:spec:
+        .: {}
+        f:description: {}
+        f:httpCloneURL: {}
+        f:org: {}
+        f:provider: {}
+        f:providerKind: {}
+        f:providerName: {}
+        f:repo: {}
+        f:scheduler:
+          .: {}
+          f:kind: {}
+          f:name: {}
+        f:url: {}
+    manager: jx
+    operation: Update
+    time: "2021-06-28T21:10:13Z"
+  name: cursusjenkinsx-hello-video-3-1
+spec:
+  description: Imported application for cursusjenkinsx/hello-video-3-1
+  httpCloneURL: https://github.com/cursusjenkinsx/hello-video-3-1.git
+  org: cursusjenkinsx
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: hello-video-3-1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cursusjenkinsx/hello-video-3-1.git
