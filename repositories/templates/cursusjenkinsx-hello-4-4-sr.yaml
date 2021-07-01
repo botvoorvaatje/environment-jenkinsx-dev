@@ -32,7 +32,7 @@ metadata:
         f:url: {}
     manager: jx
     operation: Update
-    time: "2021-07-01T00:10:14Z"
+    time: "2021-07-01T02:35:10Z"
   name: cursusjenkinsx-hello-4-4
 spec:
   description: Imported application for cursusjenkinsx/hello-4-4
